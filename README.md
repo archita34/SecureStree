@@ -26,11 +26,11 @@ Key Features
 
 Architecture
 
-![SecureStree Architecture](1(1).png)
-![SecureStree Architecture](1(2).png)
-![SecureStree Architecture](1(3).png)
-![SecureStree Architecture](1(4).png)
-![SecureStree Architecture](1(5).png)
+![SecureStree](1(1).png)
+![SecureStree](1(2).png)
+![SecureStree](1(3).png)
+![SecureStree](1(4).png)
+![SecureStree](1(5).png)
 
  Performance Metrics
 - 99.8% uptime
