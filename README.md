@@ -24,6 +24,9 @@ Key Features
 - JWT authentication
 - Encrypted data storage
 
+Architecture
+
+![SecureStree Architecture](1(1)-1(5).png)
 
  Performance Metrics
 - 99.8% uptime
