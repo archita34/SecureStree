@@ -26,11 +26,8 @@ Key Features
 
 Architecture
 
-![SecureStree](1 (1).png)
-![SecureStree](1 (2).png)
-![SecureStree](1 (3).png)
-![SecureStree](1 (4).png)
-![SecureStree](1 (5).png)
+The architecture of SecureStree is given in the files from (1(1).png) - 1(5).png) above.
+
 
  Performance Metrics
 - 99.8% uptime
